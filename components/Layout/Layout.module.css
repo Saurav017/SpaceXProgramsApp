@@ -1,4 +1,10 @@
 .main {
   margin: 3rem auto;
-  width: 90%;
+  width: 99%;
+}
+
+@media screen and (min-width: 768px) {
+  .main {
+    width: 90%;
+  }
 }
